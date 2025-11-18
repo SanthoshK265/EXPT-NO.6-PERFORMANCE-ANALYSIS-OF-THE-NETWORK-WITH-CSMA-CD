@@ -4,7 +4,7 @@ To write an NS2 program to observe the performance of the network with Carrier S
 .
 # EQUIPMENT REQUIRED
 
-PC System with Linux OS, NS2 software.
+PC System with Linux OS, NS2 software
 
 # ALGORITHM
 STEP 1: Start the program.
